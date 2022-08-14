@@ -28,18 +28,27 @@ body{
   color: #fff;
   text-align: justify;
   margin-left: 50px;
+  line-height: 1.9;
+}
+.list > li::marker{
+  color: #61DAFB;
+  font-size: 1.4rem;
 }
 .nav-logo{
   width: 70px;
 }
 .logo-title{
-  color: darkcyan;
+  color: #61DAFB;
 }
 .h3{
   color: #fff;
+  padding-right: 20px;
 }
 .maincontent{
   margin: 40px 0;
+  background-image: url(../src/image/small-logo.png);
+  background-repeat: no-repeat;
+  background-position-x:100% ; 
 }
 .maincontent>h1{
   color: #fff;
