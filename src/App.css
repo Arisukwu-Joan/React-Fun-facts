@@ -29,6 +29,9 @@ body{
   text-align: justify;
   margin-left: 50px;
 }
+.nav-logo{
+  width: 70px;
+}
 .logo-title{
   color: darkcyan;
 }
